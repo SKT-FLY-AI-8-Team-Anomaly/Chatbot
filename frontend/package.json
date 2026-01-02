@@ -1,0 +1,16 @@
+{
+    "name": "skt-fly-ai-chatbot-frontend",
+    "version": "1.0.0",
+    "description": "SKT FLY AI 챗봇 프론트엔드",
+    "scripts": {
+        "start": "npx http-server . -p 3000 -o -c-1 -d false",
+        "dev": "npx http-server . -p 3000 -o -c-1 -d false"
+    },
+    "keywords": [
+        "chatbot",
+        "skt",
+        "fly-ai"
+    ],
+    "author": "",
+    "license": "ISC"
+}
